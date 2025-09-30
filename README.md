@@ -3,7 +3,7 @@ via dingen zoals vscode
 
 
 
-![Hi](microsoft_visual_studio_code_alt_macos_bigsur_icon_189953.png)
+![Hi](https://images.icon-icons.com/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189953.png)
 
 ## 2 Onderdelen
 zoals een online repository en een lokale repository.
